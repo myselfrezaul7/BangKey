@@ -1,0 +1,6 @@
+{
+  "name": "Bangla Keyboard for Windows",
+  "description": "A modern, subtle, and flexible Bangla phonetic keyboard with Gboard smart predictions, personal dictionary, and offline desktop PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
